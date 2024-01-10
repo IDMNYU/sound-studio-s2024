@@ -67,6 +67,10 @@ This course puts heavy emphasis on making things, and on pursuing your own inter
 
 Code that we create in class (as well as this syllabus) will be published on the class GitHub, which you're reading now.
 
+Supplemental reading will be provided in each class, see [./Docs/READING.md]()
+
+In-class listening and supplemental listening is available at [./Docs/LISTENING.md]()
+
 ## Assignments and Grades
 
 The center focus of this class is on making things. Every class (except the first), two students will present something that they worked on, and the rest of the group will offer their critique. We'll talk about how to give and receive crit in class. There wil also be a midterm critique, where you will present a sketch of your final project, and then the final project itself. If you like, all three of your projects (two in-class, one final) can be continuations of the same project, or they can all be completely distinct. You're free to work in groups for the final project, but not for the individual presentations.
