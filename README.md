@@ -19,7 +19,7 @@ And your instructor is:
 
 __Sam Tarakajian__
 
-e-mail: st2773@nyu.edu
+e-mail: st2774@nyu.edu
 
 phone: 201-874-1307
 
