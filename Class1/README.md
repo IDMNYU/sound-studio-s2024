@@ -62,5 +62,28 @@ In this class we're going to talk about theory, but theory isn't the most import
 - With a slider and a metro, you can make a small kind of soundmaking toy.
 - You can record your output with `quickrecord`
 
+## Crit
+- I want us to show a lot of work in this class, so in each class we're going to see two student projects.
+- I don't have an art school background myself, but I hope that we can develop a crit practice together in this class.
+- I might call on you, so be ready to offer something
+
+### Getting Critique
+- If you're presenting, think about what you'd like to hear. Is there something specific that you'd like feedback on? Maybe there's something that's still in progress, and we shouldn't focus on that too much?
+- You might decide that you don't want to say too much about your intentions before showing your work. It might be helpful to hear people's first impressions, before you talk too much about what you were trying to do.
+- Remember, for everyone else this is their first time seeing your work. This is a valuable resource!
+- Since this is a class where we're learning technical skills as well, feel free to talk about what technologies you're working with, and how you brought everything together.
+
+### Giving Critique
+- Listen to what the person presenting is saying! If there's something specific that they're asking about, be sure to address that.
+- If you have to say something negative, you can employ the "shit sandwich". Say something positive, followed by something negative, followed by something positive. Presenting your work is vulnerable, and it's helpful to be mindful of each other's feelings.
+- You can help the presenter to understand what the audience sees when they see the work. You can talk about:
+  - Materials: What does it look like the artist is using? What can you recognize?
+  - Platform: Where is the work running? How is that significant?
+  - Audience: Where will people see the work? What will the environment be like when they're exposed to it?
+  - Emotions: What do you feel when you look at the work?
+  - Connections: What does the work remind you of?
+  - Style: What can you identify in the work that points to the artist's style?
+  - Development: If you're seeing their work again, what's changed? What do you notice?
+
 ## Homework
 Go through the Max built-in tutorials 1-10 and 14-20. Feel free to look at other tutorials too, if you like.
