@@ -1,6 +1,6 @@
 # Class 1
 
-Hi welcome to class 1. 
+Hello, welcome to class 1. 
 
 In this class we're going to talk about theory, but theory isn't the most important thing. We're going to listen to some art, but art isn't the most important thing. We're going to look at some technical stuff, but the technical parts aren't the most important thing either. The most important thing is actually the synthesis of all these parts. I really want to put the strongest emphasis in this class on making stuff. For that reason, we're going to devote the second half of each class (except for the first class) to sharing work that we've made. In each class, two students will be responsible for bringing something that they've worked on. That something can be a composition. It can be a website. It can be a really interesting sound. It can be an audio plugin. This is very much a self-driven class, and you'll get as much out of it as you put into it. 
 
