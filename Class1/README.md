@@ -4,6 +4,21 @@ Hi welcome to class 1.
 
 In this class we're going to talk about theory, but theory isn't the most important thing. We're going to listen to some art, but art isn't the most important thing. We're going to look at some technical stuff, but the technical parts aren't the most important thing either. The most important thing is actually the synthesis of all these parts. I really want to put the strongest emphasis in this class on making stuff. For that reason, we're going to devote the second half of each class (except for the first class) to sharing work that we've made. In each class, two students will be responsible for bringing something that they've worked on. That something can be a composition. It can be a website. It can be a really interesting sound. It can be an audio plugin. This is very much a self-driven class, and you'll get as much out of it as you put into it. 
 
+## Outline
+
+- Intro
+- How this course is documented
+- Max Fundamentals
+    - Getting Help in Max
+- Basic Interaction
+- Gestures and Simple Composition
+- Recording Audio Output
+- Max vs RNBO
+- Exporting from RNBO
+- Running RNBO in the browser
+- Connecting RNBO to p5.js
+- Audio/video interaction with RNBO and p5
+
 ## Technologies
 - Max
 - Supercollider
@@ -21,13 +36,31 @@ In this class we're going to talk about theory, but theory isn't the most import
 
 ## Using Max
 
+### Max Funadmentals
 - In Max, everything is objects and messages. Objects send messages to each other, and when they receive messages, they change their behavior in some way. 
-- Lock and Unlock--how you interact with the patch depends on the state of the patch.
+- Lock and Unlock--how you interact with the patch depends on the state of the patch. Click the lock or press command-e.
+- Make an object by dragging one in from the top toolbar, or by pressing N (with the patch unlocked), or by double-clicking in the object background (with the patch unlocked).
 - Open the inspector to look at the configuration of an object
-- Open a help patcher to see how an object works. You can unlock and copy-paste a help patcher
 - Open the console to see messages from Max. If something isn't working, this is the first place to look. You can double-click on an error message to see the object that produced the message.
+- You can use the print object to show the output of an object.
 
+### Getting Help
+- Every single object has a help patcher, which you can open by right-clicking on the object, or by alt-clicking on the object.
+- Open a help patcher to see how an object works. You can unlock and copy-paste a help patcher. Help patcher are actually amazing ways to get a good starting point.
+- The Max Discord exists, is active and very helpful.
+
+### Basic Interaction
+- A message box and an object box look very similar, but they're actually different. 
 - Simple objects are ones like bang, toggle, metro. You can use these to make very simple noisemakers.
+    - You can use a print or a message box to see what message these objects are actually sending.
+
+### Gestures and simple composition
+- Alright enough basics, let's make some sound.
+- We do need to talk just a little bit about sound now. We'll talk a lot more about it in the classes to come, but for now we're going to keep it pretty minimal. 
+- You can install the sample package that I'm making available.
+- Let's look at the gm-piano and gm-percussion patchers. These are abstractions that I've made, more on what that is later. We'll need them for today to make sounds.
 - With a slider and a metro, you can make a small kind of soundmaking toy.
 - You can record your output with `quickrecord`
 
+## Homework
+Go through the Max built-in tutorials 1-10 and 14-20. Feel free to look at other tutorials too, if you like.

@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 142.0, 195.0, 729.0, 483.0 ],
+		"rect" : [ 142.0, 195.0, 391.0, 489.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -485,7 +485,7 @@
  ]
 					}
 ,
-					"patching_rect" : [ 447.0, 365.0, 47.0, 22.0 ],
+					"patching_rect" : [ 58.0, 337.0, 47.0, 22.0 ],
 					"saved_object_attributes" : 					{
 						"description" : "",
 						"digest" : "",
@@ -505,7 +505,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 447.0, 149.0, 24.0, 24.0 ]
+					"patching_rect" : [ 58.0, 121.0, 24.0, 24.0 ]
 				}
 
 			}
@@ -517,7 +517,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 491.0, 72.0, 149.0, 24.0 ],
+					"patching_rect" : [ 102.0, 44.0, 149.0, 24.0 ],
 					"size" : 200.0
 				}
 
@@ -528,7 +528,7 @@
 					"maxclass" : "mc.ezdac~",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 447.0, 406.0, 45.0, 45.0 ]
+					"patching_rect" : [ 58.0, 378.0, 45.0, 45.0 ]
 				}
 
 			}
@@ -539,7 +539,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 447.0, 309.0, 46.0, 22.0 ],
+					"patching_rect" : [ 58.0, 281.0, 46.0, 22.0 ],
 					"text" : "pack i i"
 				}
 
@@ -551,7 +551,7 @@
 					"numinlets" : 3,
 					"numoutlets" : 2,
 					"outlettype" : [ "float", "float" ],
-					"patching_rect" : [ 447.0, 271.0, 108.0, 22.0 ],
+					"patching_rect" : [ 58.0, 243.0, 108.0, 22.0 ],
 					"text" : "makenote 127 200"
 				}
 
@@ -563,7 +563,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 447.0, 187.0, 73.0, 22.0 ],
+					"patching_rect" : [ 58.0, 159.0, 73.0, 22.0 ],
 					"text" : "random 127"
 				}
 
@@ -576,7 +576,7 @@
 					"numoutlets" : 2,
 					"outlettype" : [ "", "bang" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 447.0, 230.0, 50.0, 22.0 ]
+					"patching_rect" : [ 58.0, 202.0, 50.0, 22.0 ]
 				}
 
 			}
@@ -587,33 +587,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "bang" ],
-					"patching_rect" : [ 447.0, 110.0, 63.0, 22.0 ],
+					"patching_rect" : [ 58.0, 82.0, 63.0, 22.0 ],
 					"text" : "metro 250"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"id" : "obj-15",
-					"maxclass" : "button",
-					"numinlets" : 1,
-					"numoutlets" : 1,
-					"outlettype" : [ "bang" ],
-					"parameter_enable" : 0,
-					"patching_rect" : [ 205.0, 72.0, 24.0, 24.0 ]
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"dontreplace" : 1,
-					"id" : "obj-14",
-					"maxclass" : "message",
-					"numinlets" : 2,
-					"numoutlets" : 1,
-					"outlettype" : [ "" ],
-					"patching_rect" : [ 174.0, 121.0, 50.0, 22.0 ],
-					"text" : "bang"
 				}
 
 			}
@@ -621,60 +596,12 @@
 				"box" : 				{
 					"bubble" : 1,
 					"id" : "obj-12",
-					"linecount" : 2,
+					"linecount" : 6,
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 254.0, 65.5, 150.0, 37.0 ],
-					"text" : "Click a button to send a 'bang' message"
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"id" : "obj-10",
-					"maxclass" : "toggle",
-					"numinlets" : 1,
-					"numoutlets" : 1,
-					"outlettype" : [ "int" ],
-					"parameter_enable" : 0,
-					"patching_rect" : [ 120.0, 120.0, 24.0, 24.0 ]
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"id" : "obj-8",
-					"maxclass" : "button",
-					"numinlets" : 1,
-					"numoutlets" : 1,
-					"outlettype" : [ "bang" ],
-					"parameter_enable" : 0,
-					"patching_rect" : [ 120.0, 72.0, 24.0, 24.0 ]
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"id" : "obj-6",
-					"maxclass" : "button",
-					"numinlets" : 1,
-					"numoutlets" : 1,
-					"outlettype" : [ "bang" ],
-					"parameter_enable" : 0,
-					"patching_rect" : [ 59.0, 120.0, 24.0, 24.0 ]
-				}
-
-			}
-, 			{
-				"box" : 				{
-					"id" : "obj-4",
-					"maxclass" : "button",
-					"numinlets" : 1,
-					"numoutlets" : 1,
-					"outlettype" : [ "bang" ],
-					"parameter_enable" : 0,
-					"patching_rect" : [ 59.0, 72.0, 24.0, 24.0 ]
+					"patching_rect" : [ 147.0, 302.5, 150.0, 91.0 ],
+					"text" : "Advanced for the first lesson, but this subpatcher does its own internal voice allocation and synthesis"
 				}
 
 			}
@@ -686,19 +613,12 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "int" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 447.0, 72.0, 24.0, 24.0 ]
+					"patching_rect" : [ 58.0, 44.0, 24.0, 24.0 ]
 				}
 
 			}
  ],
 		"lines" : [ 			{
-				"patchline" : 				{
-					"destination" : [ "obj-14", 1 ],
-					"source" : [ "obj-15", 0 ]
-				}
-
-			}
-, 			{
 				"patchline" : 				{
 					"destination" : [ "obj-57", 0 ],
 					"source" : [ "obj-16", 0 ]
@@ -749,13 +669,6 @@
 			}
 , 			{
 				"patchline" : 				{
-					"destination" : [ "obj-6", 0 ],
-					"source" : [ "obj-4", 0 ]
-				}
-
-			}
-, 			{
-				"patchline" : 				{
 					"destination" : [ "obj-16", 1 ],
 					"source" : [ "obj-49", 0 ]
 				}
@@ -775,27 +688,7 @@
 				}
 
 			}
-, 			{
-				"patchline" : 				{
-					"destination" : [ "obj-10", 0 ],
-					"source" : [ "obj-8", 0 ]
-				}
-
-			}
  ],
-		"parameters" : 		{
-			"parameterbanks" : 			{
-				"0" : 				{
-					"index" : 0,
-					"name" : "",
-					"parameters" : [ "-", "-", "-", "-", "-", "-", "-", "-" ]
-				}
-
-			}
-,
-			"inherited_shortname" : 1
-		}
-,
 		"dependency_cache" : [  ],
 		"autosave" : 0
 	}

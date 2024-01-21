@@ -47,3 +47,15 @@ Leafcutter John, [Gritstone Improvisation One](https://www.youtube.com/watch?v=A
 Keith Fullerton Whitman, [190303.Graz](https://www.youtube.com/watch?v=m2oDexNiI0c&list=OLAK5uy_nU8nHOGMiSNGQYYS3vjB39t7ew1lhLYXI&t=2s), (2023)
 
 SPIME.IM and Akasha, [Hint](https://www.youtube.com/watch?v=X5HZ2cCigMU), (2023)
+
+sv1, [₂₀₂₃₁₂₃₁ ₁₄₅](https://www.youtube.com/watch?v=ydtAzMbydgQ) (2023)
+
+Mark Fell - Multistability
+Floating Points + Pharoah Sanders - Promises
+Rob Clouth - Zero Point
+Flying Lotus - Cosmogramma
+Amon Tobin - ISAM
+Aphex Twin - Drukqs
+Tim Hecker - Virgins
+Oneohtrix Point Never - R Plus Seven
+Venetian Snares - Traditional Synthesizer Music
