@@ -4,6 +4,15 @@ Hello, welcome to the very first class.
 
 In this class we're going to talk about theory, but theory isn't the most important thing. We're going to listen to some art, but art isn't the most important thing. We're going to look at some technical stuff, but the technical parts aren't the most important thing either. The most important thing is actually the synthesis of all these parts. I really want to put the strongest emphasis in this class on making stuff. For that reason, we're going to devote the second half of each class (except for the first class) to sharing work that we've made. In each class, two students will be responsible for bringing something that they've worked on. That something can be a composition. It can be a website. It can be a really interesting sound. It can be an audio plugin. This is very much a self-driven class, and you'll get as much out of it as you put into it. 
 
+## Links
+
+- https://www.instagram.com/p/C2AiLgYsuc4/ (tomavatars using RNBO in Unreal)
+- https://www.youtube.com/watch?v=AoI8T6epJF4 (Leafcutter John with a contact mic improv)
+- https://kentaro.tools/swirl (Kentaro's Swirl effect)
+- https://www.youtube.com/watch?v=aaYE1TQGIvk (Michel Waisvisz "The Hands")
+- https://www.youtube.com/watch?v=ci-yB6EgVW4 (Imogen Heap)
+- https://www.youtube.com/watch?v=LFz2lCEkjFk (Conlon Nancarrow "Study for Player Piano No. 37")
+
 ## Outline
 
 - Intro
@@ -86,4 +95,6 @@ In this class we're going to talk about theory, but theory isn't the most import
   - Development: If you're seeing their work again, what's changed? What do you notice?
 
 ## Homework
-Go through the Max built-in tutorials 1-10 and 14-20. Feel free to look at other tutorials too, if you like.
+- Make a 60-120 second composition using the techniques that we talked about in class. 
+  - Use the `quickrecord` patch (in Extras > Quickrecord) to record the output of your patch.
+- Max has very helpful built-in tutorials that you should reference. 1-10 and 14-20 are especially useful.
