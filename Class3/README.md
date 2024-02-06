@@ -2,6 +2,12 @@
 
 Welcome to class number 3! Let's talk about synthesis, synthesizers, analysis, and resynthesis.
 
+## Listening
+- https://www.youtube.com/watch?v=71hNl_skTZQ
+- https://soundcloud.com/kfw/130706-kfw
+- https://www.youtube.com/watch?v=m2oDexNiI0c
+- https://www.youtube.com/watch?v=ydtAzMbydgQ
+
 ## Links
 - https://learningsynths.ableton.com/
 - https://www.youtube.com/watch?v=eeHNVVcuSVs

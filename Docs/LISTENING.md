@@ -6,6 +6,8 @@ Newman Guttman, [The Silver Scale](https://www.youtube.com/watch?v=PM64-lqYyZ8) 
 
 Iannis Xenakis, [Concret PH](https://www.youtube.com/watch?v=XsOyxFybxPY&t=54s) (1958)
 
+Ligeti, György [Artikulation](https://www.youtube.com/watch?v=71hNl_skTZQ)(1958)
+
 Luciano Berio, [Thema - Ommagio a Joyce](https://www.youtube.com/watch?v=jV_76OZSsqo) (1958)
 
 Max Mathews & Joan Miller, [Bicycle Built For Two](https://www.youtube.com/watch?v=ZFUVR-clo8g) (1961)
@@ -44,7 +46,7 @@ Ryoichi Kurokawa, [ad/ab Atom](https://www.youtube.com/watch?v=bvHiobhVfnw) (202
 
 Leafcutter John, [Gritstone Improvisation One](https://www.youtube.com/watch?v=AoI8T6epJF4) (2023)
 
-Keith Fullerton Whitman, [190303.Graz](https://www.youtube.com/watch?v=m2oDexNiI0c&list=OLAK5uy_nU8nHOGMiSNGQYYS3vjB39t7ew1lhLYXI&t=2s), (2023)
+Keith Fullerton Whitman, [190303.Graz](https://www.youtube.com/watch?v=m2oDexNiI0c&list=OLAK5uy_nU8nHOGMiSNGQYYS3vjB39t7ew1lhLYXI), (2023)
 
 SPIME.IM and Akasha, [Hint](https://www.youtube.com/watch?v=X5HZ2cCigMU), (2023)
 
