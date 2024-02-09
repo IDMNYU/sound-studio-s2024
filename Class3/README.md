@@ -116,3 +116,54 @@ We've covered a lot of ground!
 - Noise
 
 Take just a couple of these and try to build a simple synthesizer. See if you can get it to play a melody. Be sure to figure out a way to add some modulation to the overall thing, perhaps using `mousestate`. Record the output. If you've got time, make it look nice in presentation mode. 
+
+## Week 1 (feb 6)
+- Reshma
+- Henry
+
+## Week 2 (feb 13)
+- Pierson
+- Kitty
+
+## Week 3 (feb 20)
+- Rolly
+- Orpheus
+
+## Week 4 (feb 27)
+- Audrey
+- Henry
+- Karan
+
+## Week 5 (mar 5)
+- Kaiwen
+- Flora
+- Zoe
+- Aditi
+
+## Reshma
+- Materials?
+- Arduino?
+- Collaboration
+- Fractals?
+- Combining Max with exterior technologies
+- Serial (which as we know connects to Arduino)
+- Visualization?
+- Ableton Connect Kit?
+- Sounds falling into each other?
+
+## Herui
+- Astra
+- New GUI for manipulating sounds in the browser
+- SPAT?
+- Three.js?
+- WebGL
+- Code of Music + Sound Studio
+- Proximity to manage 
+- Feedback?
+- Toy vs. Tool?
+- Experimental vs. Mainstream?
+- Visualization? What does the UI do?
+- Use Max for three.js?
+- Record function?
+
+- Pioneer??
