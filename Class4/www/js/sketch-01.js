@@ -13,16 +13,20 @@ async function setupRNBO() {
 setupRNBO();
 
 function setup() {
+    colorMode(HSB, 255);
     createCanvas(800, 800);
 }
 
 function draw() {
+    if (mouseIsPressed) {
+        fill(map(note, 50, 70, 0, 255), 255, 255, 128);
+    } else {
+        fill(255);
+    }
     ellipse(mouseX, mouseY, 80, 80);
 }
 
 function mousePressed() {
-    fill(0);
-
     if (device) {
         context.resume();
         note = Math.floor(Math.random() * 20) + 50;
@@ -31,7 +35,6 @@ function mousePressed() {
 }
 
 function mouseReleased() {
-    fill(255);
     if (device) {
         noteOff(device, context, note);
     }
