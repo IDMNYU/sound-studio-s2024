@@ -1,6 +1,6 @@
 // The name of our exported RNBO patch
 const patchExportURL = "export/simple-synth-04.export.json";
-let note = undefined;
+let note = 50;
 let mouseDownX = 0;
 let mouseDownY = 0;
 let currentLFOValue = 1.0;

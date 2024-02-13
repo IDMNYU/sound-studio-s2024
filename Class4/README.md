@@ -43,4 +43,4 @@ Today we're going to try making someting in Max using RNBO, exporting it, and ru
 ### Web Audio
 
 ## Lab
-Formants
+Guitar pedals, add your own sauce
