@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 134.0, 124.0, 1255.0, 959.0 ],
+		"rect" : [ 134.0, 87.0, 1255.0, 959.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -418,7 +418,7 @@
 			}
 , 			{
 				"box" : 				{
-					"addpoints_with_curve" : [ 1200.0, 2400.0, 0, 0.0, 3600.0, 2400.0, 0, 0.0 ],
+					"addpoints_with_curve" : [ 1185.8642578125, 2428.271484375, 0, 0.0, 3595.27587890625, 2371.800897244178486, 0, 0.0 ],
 					"classic_curve" : 1,
 					"domain" : 4800.0,
 					"id" : "obj-62",

@@ -131,7 +131,6 @@ Take just a couple of these and try to build a simple synthesizer. See if you ca
 
 ## Week 4 (feb 27)
 - Audrey
-- Henry
 - Karan
 
 ## Week 5 (mar 5)
