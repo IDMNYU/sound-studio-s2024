@@ -3,7 +3,8 @@
 Well we can't put it off any longer. It's time to talk about the Fourier Transform
 
 ## Links
-- https://www.youtube.com/watch?v=spUNpyF58BY
+- https://www.youtube.com/watch?v=muCPjK4nGY4 (The Speaking Piano)
+- https://www.youtube.com/watch?v=spUNpyF58BY (Fourier Transform)
 
 ## Topics
 - Fourier Transform
@@ -20,3 +21,5 @@ Well we can't put it off any longer. It's time to talk about the Fourier Transfo
 - buffir~
 
 ## Lecture
+
+### What is the FFT and how does it work?
