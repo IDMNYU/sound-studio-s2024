@@ -1,0 +1,73 @@
+{
+	"pattrstorage" : 	{
+		"name" : "whatever",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"upshot_polysynth::carrier-attack" : [ 0.0 ],
+					"upshot_polysynth::carrier-brightness" : [ 0.0 ],
+					"upshot_polysynth::carrier-decay" : [ 0.0 ],
+					"upshot_polysynth::carrier-ratio" : [ 0.0 ],
+					"upshot_polysynth::carrier-release" : [ 0.0 ],
+					"upshot_polysynth::carrier-sustain" : [ 0.0 ],
+					"upshot_polysynth::flush" : [ 0.0 ],
+					"upshot_polysynth::midiout" : [ 1 ],
+					"upshot_polysynth::modulator-attack" : [ 1416.953693161841784 ],
+					"upshot_polysynth::modulator-decay" : [ 5000.0 ],
+					"upshot_polysynth::modulator-release" : [ 81.965633541668623 ],
+					"upshot_polysynth::modulator-sustain" : [ 82.677165354330768 ],
+					"upshot_polysynth::refresh" : [ 0.0 ],
+					"upshot_polysynth::volume" : [ -26.451076834441452 ],
+					"upshot_polysynth::wave-type" : [ 1 ],
+					"upshot_chordmorpher::amplification[1]" : [ 0.065 ],
+					"upshot_chordmorpher::flush" : [ 0.0 ],
+					"upshot_chordmorpher::glidetime[1]" : [ 3000.0 ],
+					"upshot_chordmorpher::glidetime[2]" : [ 5000.0 ],
+					"upshot_chordmorpher::midiout" : [ 1 ],
+					"upshot_chordmorpher::morph" : [ 0.0 ],
+					"upshot_chordmorpher::oscillator" : [ 0 ],
+					"upshot_chordmorpher::refresh" : [ 0.0 ],
+					"upshot_chordmorpher::reset" : [ 0.0 ],
+					"upshot_chordmorpher::volume[1]" : [ -9.974744875904449 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"upshot_polysynth::carrier-attack" : [ 0.0 ],
+					"upshot_polysynth::carrier-brightness" : [ 0.0 ],
+					"upshot_polysynth::carrier-decay" : [ 50.519555926521299 ],
+					"upshot_polysynth::carrier-ratio" : [ 2.58267716535433 ],
+					"upshot_polysynth::carrier-release" : [ 564.2068230146931 ],
+					"upshot_polysynth::carrier-sustain" : [ 76.377952755905511 ],
+					"upshot_polysynth::flush" : [ 0.0 ],
+					"upshot_polysynth::midiout" : [ 1 ],
+					"upshot_polysynth::modulator-attack" : [ 1416.953693161841784 ],
+					"upshot_polysynth::modulator-decay" : [ 0.0 ],
+					"upshot_polysynth::modulator-release" : [ 81.965633541668623 ],
+					"upshot_polysynth::modulator-sustain" : [ 82.677165354330768 ],
+					"upshot_polysynth::refresh" : [ 0.0 ],
+					"upshot_polysynth::volume" : [ -26.451076834441452 ],
+					"upshot_polysynth::wave-type" : [ 1 ],
+					"upshot_chordmorpher::amplification[1]" : [ 0.065 ],
+					"upshot_chordmorpher::flush" : [ 0.0 ],
+					"upshot_chordmorpher::glidetime[1]" : [ 3000.0 ],
+					"upshot_chordmorpher::glidetime[2]" : [ 5000.0 ],
+					"upshot_chordmorpher::midiout" : [ 1 ],
+					"upshot_chordmorpher::morph" : [ 0.0 ],
+					"upshot_chordmorpher::oscillator" : [ 0 ],
+					"upshot_chordmorpher::refresh" : [ 0.0 ],
+					"upshot_chordmorpher::reset" : [ 0.0 ],
+					"upshot_chordmorpher::volume[1]" : [ -9.974744875904449 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

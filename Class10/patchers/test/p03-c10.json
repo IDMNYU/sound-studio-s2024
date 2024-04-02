@@ -1,0 +1,33 @@
+{
+	"pattrstorage" : 	{
+		"name" : "p03-c10",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"upshot_polysynth::carrier-attack" : [ 0.0 ],
+					"upshot_polysynth::carrier-brightness" : [ 10.582677165354314 ],
+					"upshot_polysynth::carrier-decay" : [ 0.0 ],
+					"upshot_polysynth::carrier-ratio" : [ 1.0 ],
+					"upshot_polysynth::carrier-release" : [ 0.0 ],
+					"upshot_polysynth::carrier-sustain" : [ 22.047244094488189 ],
+					"upshot_polysynth::flush" : [ 0.0 ],
+					"upshot_polysynth::midiout" : [ 1 ],
+					"upshot_polysynth::modulator-attack" : [ 1.437485346916837 ],
+					"upshot_polysynth::modulator-decay" : [ 81.965633541668893 ],
+					"upshot_polysynth::modulator-release" : [ 81.965633541668623 ],
+					"upshot_polysynth::modulator-sustain" : [ 17.32283464566936 ],
+					"upshot_polysynth::refresh" : [ 0.0 ],
+					"upshot_polysynth::volume" : [ -26.451076834441452 ],
+					"upshot_polysynth::wave-type" : [ 1 ],
+					"upshot_chords::chords" : [ 14.0 ],
+					"upshot_chords::refresh[1]" : [ 0.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

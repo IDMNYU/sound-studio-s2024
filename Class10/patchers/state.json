@@ -1,0 +1,17 @@
+{
+	"pattrstorage" : 	{
+		"name" : "state",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"live.dial" : [ 97.999999999999872 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
