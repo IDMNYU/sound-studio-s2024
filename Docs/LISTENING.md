@@ -26,6 +26,8 @@ Jean-Claude Risset, [Sud](https://www.youtube.com/watch?v=Fhj2O4jToKI) (1985)
 
 Éliane Radigue, [Jetsun Mila](https://www.youtube.com/watch?v=oneBG6N0_uY) (1987)
 
+Barry Truax, [Wings of Nike](https://www.youtube.com/watch?v=e5EhCdqqvsY) (1987)
+
 Paul Lansky, [Night Traffic](https://www.youtube.com/watch?v=7WL0J3kJEmk&t=437s) (1990)
 
 Brad Garton, [Rough Raga Riffs](http://sites.music.columbia.edu/brad/music/mp3/Rough_Raga_Riffs.mp3) (1991)
