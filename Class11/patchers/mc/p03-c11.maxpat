@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 59.0, 119.0, 1205.0, 765.0 ],
+		"rect" : [ 34.0, 87.0, 1852.0, 959.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -40,6 +40,18 @@
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
 				"box" : 				{
+					"id" : "obj-2",
+					"maxclass" : "message",
+					"numinlets" : 2,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 734.000021874904633, 371.333344399929047, 51.0, 22.0 ],
+					"text" : "chans 7"
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"bubble" : 1,
 					"id" : "obj-70",
 					"linecount" : 3,
@@ -47,7 +59,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 191.0, 305.5, 150.0, 51.0 ],
-					"presentation_linecount" : 3,
 					"text" : "If you really want to have fun try changing the channel count"
 				}
 
@@ -144,7 +155,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 695.0, 258.0, 125.0, 22.0 ],
-					"presentation_linecount" : 2,
 					"text" : "spreadinclusive $1 $2"
 				}
 
@@ -171,7 +181,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 420.0, 192.0, 43.0, 22.0 ],
-					"presentation_linecount" : 2,
 					"text" : "-0.343"
 				}
 
@@ -184,7 +193,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 382.0, 192.0, 36.0, 22.0 ],
-					"presentation_linecount" : 2,
 					"text" : "-0.23"
 				}
 
@@ -197,7 +205,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 322.0, 192.0, 56.0, 22.0 ],
-					"presentation_linecount" : 2,
 					"text" : "-0.20274"
 				}
 
@@ -268,7 +275,7 @@
 			}
 , 			{
 				"box" : 				{
-					"cols" : 8,
+					"cols" : 7,
 					"fontface" : 0,
 					"fontname" : "Arial",
 					"fontsize" : 12.0,
@@ -293,7 +300,6 @@
 					"numinlets" : 1,
 					"numoutlets" : 0,
 					"patching_rect" : [ 127.0, 538.0, 85.0, 37.0 ],
-					"presentation_linecount" : 2,
 					"text" : "turn it up to hear"
 				}
 
@@ -381,7 +387,6 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 521.0, 227.0, 101.0, 22.0 ],
-					"presentation_linecount" : 2,
 					"text" : "increment $1 100"
 				}
 
@@ -424,6 +429,13 @@
 			}
  ],
 		"lines" : [ 			{
+				"patchline" : 				{
+					"destination" : [ "obj-33", 0 ],
+					"source" : [ "obj-2", 0 ]
+				}
+
+			}
+, 			{
 				"patchline" : 				{
 					"destination" : [ "obj-33", 0 ],
 					"source" : [ "obj-28", 0 ]
