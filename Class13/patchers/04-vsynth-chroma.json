@@ -1,0 +1,62 @@
+{
+	"pattrstorage" : 	{
+		"name" : "04-vsynth-chroma",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"vs_wfg_2::radwfg_freq_60mult" : [ 1.0 ],
+					"vs_wfg_2::radwfg_freq_range" : [ 0.0 ],
+					"vs_wfg_2::radwfg_fm_range" : [ 0.0 ],
+					"vs_wfg_2::radwfg_fm" : [ 0.905511811023622 ],
+					"vs_wfg_2::radwfg_freq" : [ 273.070866141733518 ],
+					"vs_wfg_2::radwfg_pw" : [ 50.0 ],
+					"vs_wfg_2::radwfg_pwm" : [ 0.0 ],
+					"vs_wfg_2::radwfg_shape" : [ 0.0 ],
+					"vs_wfg_2::radwfg_time" : [ 0.0 ],
+					"vs_wfg_2::radwfg_time_dir" : [ 0.0 ],
+					"vs_wfg_2::radwfg_wf" : [ 0.0 ],
+					"vs_wfg_2::umenu" : [ 0 ],
+					"vs_output::lowl_x" : [ 0.0 ],
+					"vs_output::lowl_y" : [ 1.0 ],
+					"vs_output::lowr_x" : [ 1.0 ],
+					"vs_output::lowr_y" : [ 1.0 ],
+					"vs_output::uppl_x" : [ 0.0 ],
+					"vs_output::uppl_y" : [ 0.0 ],
+					"vs_output::uppr_x" : [ 1.0 ],
+					"vs_output::uppr_y" : [ 0.0 ],
+					"vs_wfg_3::wfg3_freq_range" : [ 0.0 ],
+					"vs_wfg_3::wfg3_fm_range" : [ 0.0 ],
+					"vs_wfg_3::wfg3_pm_range" : [ 0.0 ],
+					"vs_wfg_3::wfg3_angle" : [ 0.0 ],
+					"vs_wfg_3::wfg3_bias" : [ 50.0 ],
+					"vs_wfg_3::wfg3_biasm" : [ 0.0 ],
+					"vs_wfg_3::wfg3_fm" : [ -0.59055118110236 ],
+					"vs_wfg_3::wfg3_freq" : [ 666.614173228345749 ],
+					"vs_wfg_3::wfg3_phase" : [ 0.0 ],
+					"vs_wfg_3::wfg3_phase_time_switch" : [ 0.0 ],
+					"vs_wfg_3::wfg3_pm" : [ -1.0 ],
+					"vs_wfg_3::wfg3_shape" : [ 1.0 ],
+					"vs_wfg_3::wfg3_speed" : [ -1.653543307086626 ],
+					"vs_colorizer::clrizer_color" : [ 1.0, 0.07843137254902, 0.07843137254902, 1.0, 0.0, 1.0, 0.53921568627451 ],
+					"vs_colorizer::clrizer_hue" : [ 0.0 ],
+					"vs_edges::edges_freq" : [ 0.149606299212599 ],
+					"vs_edges::edges_mode" : [ 0.0 ],
+					"vs_edges::edges_smth" : [ 0.0 ],
+					"vs_edges::edges_thrshld" : [ 0.63779491338583 ],
+					"vs_mixer_3::mixer3_in_1" : [ 0.497930570456984 ],
+					"vs_mixer_3::mixer3_in_2" : [ 1.0 ],
+					"vs_mixer_3::mixer3_in_3" : [ 0.0 ],
+					"vs_mixer_3::mixer3_master" : [ 1.0 ],
+					"vs_filter_temp::temp_freq" : [ 0.220472440944883 ],
+					"vs_colorizer[1]::clrizer_color" : [ 0.647058823529412, 0.107843137254902, 0.0, 1.0, 0.027777777777778, 1.0, 0.323529411764706 ],
+					"vs_colorizer[1]::clrizer_hue" : [ 10.000000000000002 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

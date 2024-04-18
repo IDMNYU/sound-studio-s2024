@@ -1,0 +1,38 @@
+{
+	"pattrstorage" : 	{
+		"name" : "05-vsynth-capture",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"vs_wfg_2::radwfg_freq_60mult" : [ 1.0 ],
+					"vs_wfg_2::radwfg_freq_range" : [ 0.0 ],
+					"vs_wfg_2::radwfg_fm_range" : [ 0.0 ],
+					"vs_wfg_2::radwfg_fm" : [ 0.677165354330708 ],
+					"vs_wfg_2::radwfg_freq" : [ 401.574803149606055 ],
+					"vs_wfg_2::radwfg_pw" : [ 32.283464566929112 ],
+					"vs_wfg_2::radwfg_pwm" : [ 0.5 ],
+					"vs_wfg_2::radwfg_shape" : [ 0.0 ],
+					"vs_wfg_2::radwfg_time" : [ 3.0 ],
+					"vs_wfg_2::radwfg_time_dir" : [ 0.0 ],
+					"vs_wfg_2::radwfg_wf" : [ 4.0 ],
+					"vs_wfg_2::umenu" : [ 4 ],
+					"vs_output::lowl_x" : [ 0.0 ],
+					"vs_output::lowl_y" : [ 1.0 ],
+					"vs_output::lowr_x" : [ 1.0 ],
+					"vs_output::lowr_y" : [ 1.0 ],
+					"vs_output::uppl_x" : [ 0.0 ],
+					"vs_output::uppl_y" : [ 0.0 ],
+					"vs_output::uppr_x" : [ 1.0 ],
+					"vs_output::uppr_y" : [ 0.0 ],
+					"vs_audio2video::vs_audio2video_interp" : [ 1.0 ],
+					"vs_audio2video::vs_audio2video_mode" : [ 0.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

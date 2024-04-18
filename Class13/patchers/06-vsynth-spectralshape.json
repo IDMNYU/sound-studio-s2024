@@ -1,0 +1,50 @@
+{
+	"pattrstorage" : 	{
+		"name" : "06-vsynth-spectralshape",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"live.gain~" : [ -0.000000000000002 ],
+					"vs_output::lowl_x" : [ 0.0 ],
+					"vs_output::lowl_y" : [ 1.0 ],
+					"vs_output::lowr_x" : [ 1.0 ],
+					"vs_output::lowr_y" : [ 1.0 ],
+					"vs_output::uppl_x" : [ 0.0 ],
+					"vs_output::uppl_y" : [ 0.0 ],
+					"vs_output::uppr_x" : [ 1.0 ],
+					"vs_output::uppr_y" : [ 0.0 ],
+					"vs_filter_temp::temp_freq" : [ 0.275000000000003 ],
+					"vs_wfg_2[1]::wfg2_fm_range" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_freq_range" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_pm_range" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_fm" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_freq" : [ 80.314960629921714 ],
+					"vs_wfg_2[1]::wfg2_phase" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_phase_time_switch" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_pm" : [ -0.499999999999923 ],
+					"vs_wfg_2[1]::wfg2_pw" : [ 50.0 ],
+					"vs_wfg_2[1]::wfg2_pwm" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_sync_lock" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_time" : [ 5.0 ],
+					"vs_wfg_2[1]::wfg2_time_range" : [ 0.0 ],
+					"vs_wfg_2[1]::wfg2_wf" : [ 1.0 ],
+					"vs_offset+rot::offrot_y_range" : [ 2.0 ],
+					"vs_offset+rot::offrot_x_range" : [ 2.0 ],
+					"vs_offset+rot::offrot_anglemenu" : [ 5.0 ],
+					"vs_offset+rot::a_lock" : [ 0.0 ],
+					"vs_offset+rot::offrot_angle" : [ -15.712952867201425 ],
+					"vs_offset+rot::offrot_boundmode" : [ 3.0 ],
+					"vs_offset+rot::offrot_x" : [ 0.218437959877416 ],
+					"vs_offset+rot::offrot_y" : [ 0.031481354664442 ],
+					"vs_offset+rot::offrot_zoom" : [ 1.220472440944889 ],
+					"vs_filter_lp4x::lpf_freq" : [ 0.25 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
