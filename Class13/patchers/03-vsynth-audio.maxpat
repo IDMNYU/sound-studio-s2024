@@ -247,10 +247,10 @@
 					"id" : "obj-81",
 					"maxclass" : "newobj",
 					"numinlets" : 2,
-					"numoutlets" : 2,
-					"outlettype" : [ "", "" ],
-					"patching_rect" : [ 370.0, 248.0, 101.0, 22.0 ],
-					"text" : "mc.peakamp~ 16"
+					"numoutlets" : 1,
+					"outlettype" : [ "float" ],
+					"patching_rect" : [ 370.0, 248.0, 82.0, 22.0 ],
+					"text" : "peakamp~ 16"
 				}
 
 			}
